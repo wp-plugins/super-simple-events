@@ -28,7 +28,7 @@ Features include:
 It is built using the WordPress coding standards, is designed to be very lite weight on system resources.
 
 If you wish to follow the development of this plugin, view the code on 
-[GitHub](https://github.com/spacedmonkey/super-simple-events/ "github") or the official plugin [website](http://www.jonathandavidharris.co.uk/scripts/super-simple-events/ "website").
+[GitHub](https://github.com/spacedmonkey/super-simple-events/ "github") or the official plugin [website](http://www.jonathandavidharris.co.uk/scripts/super-simple-events/ "website") or follow me on twitter [@thespacedmonkey](https://twitter.com/thespacedmonkey).
 
 == Installation ==
 
