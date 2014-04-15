@@ -5,7 +5,7 @@ Donate link: http://www.jonathandavidharris.co.uk/
 Tags: events, custom post type, events list, widget
 Requires at least: 3.8
 Tested up to: 3.8
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -83,6 +83,10 @@ This is an issue with WordPress code and registering custom post types. The url 
 3. Screenshot of admin settings
 
 == Changelog ==
+
+= 1.0.2 =
+* Fix for taxonomy page being ordered by event date
+* Fix for international date format
 
 = 1.0.1 =
 * Updated to plugin that stops people getting 404 pages when going to events pages.
