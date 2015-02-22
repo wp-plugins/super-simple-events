@@ -4,8 +4,8 @@ Contributors: spacedmonkey
 Donate link: http://www.jonathandavidharris.co.uk/
 Tags: events, custom post type, events list, widget
 Requires at least: 3.8
-Tested up to: 3.8
-Stable tag: 1.0.2
+Tested up to: 4.1
+Stable tag: 1.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -84,7 +84,13 @@ This is an issue with WordPress code and registering custom post types. The url 
 
 == Changelog ==
 
-= 1.0.2 =
+= 1.0.4 =
+* Translation for brazilian.
+
+= 1.0.3 =
+* Bug fixes
+
+= 1.0.2 = 
 * Fix for taxonomy page being ordered by event date
 * Fix for international date format
 
